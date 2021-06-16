@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I am Ali.  
+This page contains a short list of projects I have completed, started or have planned to start in the near future.  
+# Projects that require visualisation.  
+* Reinforcement learning agent (TP and SARSA) maze pathfinder
+* Reversi/Othello AI player (minimax w/ alpha-beta pruning)
+* A-star pathfinding algorithm  
+# Projects to be added soon.  
+* Django based porfolio website
+* Hackathon project  
+# Future projects planned.   
+* Javascript related projects
+* C++ related projects
 
-<!--
-**ali207715/ali207715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
